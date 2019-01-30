@@ -9,7 +9,7 @@
 Inclua o arquivo whatsapp.css na sua página e pronto o Botão do WhatsApp ficara flutuando no seu site.
 
 ```bash
-<link rel="stylesheet" href="css/whatsapp.css">
+<link rel="stylesheet" href="whatsapp.css">
 
 <a href="https://web.whatsapp.com/send?l=pt&amp;phone=556199999999" 
 class="whatsapp_2 float float-right float-floatingButtonCenter"
