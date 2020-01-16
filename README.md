@@ -11,7 +11,7 @@ Inclua o arquivo whatsapp.css na sua página e pronto o Botão do WhatsApp ficar
 ```bash
 <link rel="stylesheet" href="whatsapp.css">
 
-<a href="https://web.whatsapp.com/send?l=pt&amp;phone=556199999999" 
+<a href="https://api.whatsapp.com/send?l=pt&amp;phone=556199999999" 
 class="whatsapp_2 float float-right float-floatingButtonCenter"
  style="background-color: #25d366;" target="_blank">
 <i class="whatsapp_2 fa fa-whatsapp whatsapp "></i>
